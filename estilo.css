@@ -1,0 +1,26 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    font-size: 36px;
+    text-align: center;
+    padding: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #ff7700; /* Color anaranjado representativo de Duki */
+}
+.button:hover {
+    background-color: #ff9900; /* Cambio de color al pasar el mouse */
+}
+.img-wrapper {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.img-wrapper img {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
