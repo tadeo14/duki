@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque&family=Mulish:wght@400;600;700&family=Open+Sans&display=swap');
+
 body {
     background-color: #000;
     color: #fff;
@@ -13,6 +15,13 @@ h1 {
 }
 .button:hover {
     background-color: #ff9900; /* Cambio de color al pasar el mouse */
+}
+p {
+    font-family: 'Bricolage Grotesque', sans-serif,'Mulish', sans-serif,'Open Sans', sans-serif;
+    background-color: #ff7700;
+    color: #000;
+    width:fit-content;
+    font-size: 40px;
 }
 .img-wrapper {
     text-align: center;
